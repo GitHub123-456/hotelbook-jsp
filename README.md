@@ -1,6 +1,6 @@
 # 酒店管理系统
 
-大三JavaWeb课大作业，将大二有JavaFx编写的项目改写成Web项目。
+大三JavaWeb课大作业，将大二由JavaFx编写的项目改写成Web项目。
 
 本项目采用IntelliJ编写，并由其提交至GitHub。
 
