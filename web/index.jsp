@@ -14,6 +14,7 @@
 
     <body>
         <h1>这里是index.jsp</h1>
+        <jsp:forward page="login/login.html" />
     </body>
 
 </html>
