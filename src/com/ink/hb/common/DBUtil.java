@@ -36,10 +36,10 @@ public class DBUtil {
     }
 
     /**
-     * 通过连接池对象返回数据库连接 
+     * 通过连接池对象返回数据库连接
      *
-     * @return
-     * @throws SQLException
+     * @return Connection 连接对象
+     * @throws SQLException 数据库错误
      */
     public static Connection getConnection() throws SQLException {
 
