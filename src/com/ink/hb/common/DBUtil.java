@@ -21,7 +21,7 @@ public class DBUtil {
             // 连接参数设置
             dataSource.setUser("root");// 用户名
             dataSource.setPassword("123456");// 密码
-            dataSource.setJdbcUrl("jdbc:mysql://localhost:3306/hotelbook"); // 连接字符串
+            dataSource.setJdbcUrl("jdbc:mysql://localhost:3306/hotelbook?characterEncoding=utf8&useSSL=true"); // 连接字符串
             dataSource.setDriverClass("com.mysql.jdbc.Driver"); // 驱动类
 
             // 连接池设置
